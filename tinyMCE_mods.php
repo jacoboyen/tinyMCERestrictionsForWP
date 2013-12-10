@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: TinyMCE restrictions for WordPress
-Plugin URI: http://www.jacoboyen.com
+Plugin URI: https://github.com/jacoboyen/tinyMCERestrictionsForWP
 Description: Restricts WordPress to only use defined tags in the editor for posts.
 Version: 0.01
 Author: Jacob Oyen
-
+Author URI: http://www.jacoboyen.com
 */
 
 $tinyMCE_restrictions = get_option( 'jco_tinyMCE_restrictions' );
